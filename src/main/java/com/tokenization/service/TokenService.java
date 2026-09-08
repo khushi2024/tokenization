@@ -14,7 +14,6 @@ import java.security.SecureRandom;
 import java.time.LocalDateTime;
 import java.util.List;
 // Git workflow practice
-// Token suspension feature
 @Service
 public class TokenService {
     private final TokenRepository tokenRepository;
